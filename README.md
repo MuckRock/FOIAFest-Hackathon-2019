@@ -19,11 +19,11 @@ Two prizes — one for an internationally-focused project and one for a U.S.-cen
 GLOBAL DATA:
 * [FOIAFest Global Water Hackathon Details](https://github.com/MuckRock/FOIAFest-Hackathon-2019/blob/master/data/FOIAFest%20Global%20Water%20Hackathon%20Details.pdf)
 * [SDG_Goal6_AllData.csv](https://github.com/MuckRock/FOIAFest-Hackathon-2019/blob/master/data/SDG_Goal6_AllData.csv)
-* [SDG_Goal6_Indicator5_1_Water_Resources_Management](https://github.com/MuckRock/FOIAFest-Hackathon-2019/raw/master/data/SDG_Goal6_Indicator5_1_Water_Resources_Management.xlsx)
+* [SDG_Goal6_Indicator5_1_Water_Resources_Management.xlsx](https://github.com/MuckRock/FOIAFest-Hackathon-2019/raw/master/data/SDG_Goal6_Indicator5_1_Water_Resources_Management.xlsx)
 
 LOCAL DATA:
 * [FOIAFest Local Water Hackathon Details](https://github.com/MuckRock/FOIAFest-Hackathon-2019/blob/master/data/FOIAFest%20Local%20Water%20Hackathon%20Details.pdf)
-* [SocialDeterminants_WestMichigan_2017](https://github.com/MuckRock/FOIAFest-Hackathon-2019/blob/master/data/SocialDeterminants_WestMichigan_2017.csv)
+* [SocialDeterminants_WestMichigan_2017.csv](https://github.com/MuckRock/FOIAFest-Hackathon-2019/blob/master/data/SocialDeterminants_WestMichigan_2017.csv)
 
 ## Portals
 
