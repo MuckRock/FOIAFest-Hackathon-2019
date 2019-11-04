@@ -22,7 +22,7 @@ GLOBAL DATA:
 * [SDG_Goal6_Indicator5_1_Water_Resources_Management](https://github.com/MuckRock/FOIAFest-Hackathon-2019/raw/master/data/SDG_Goal6_Indicator5_1_Water_Resources_Management.xlsx)
 
 LOCAL DATA:
-* .[SocialDeterminants_WestMichigan_2017](https://github.com/MuckRock/FOIAFest-Hackathon-2019/blob/master/data/SocialDeterminants_WestMichigan_2017.csv)
+* [SocialDeterminants_WestMichigan_2017](https://github.com/MuckRock/FOIAFest-Hackathon-2019/blob/master/data/SocialDeterminants_WestMichigan_2017.csv)
 
 ## Portals
 
