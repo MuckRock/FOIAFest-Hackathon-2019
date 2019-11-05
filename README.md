@@ -29,5 +29,13 @@ LOCAL DATA:
 * [FOIAFest Local Water Hackathon Details](https://github.com/MuckRock/FOIAFest-Hackathon-2019/blob/master/data/FOIAFest%20Local%20Water%20Hackathon%20Details.pdf)
 * [SocialDeterminants_WestMichigan_2017.csv](https://github.com/MuckRock/FOIAFest-Hackathon-2019/blob/master/data/SocialDeterminants_WestMichigan_2017.csv)
 
-## Portals
+## Articles
+
+[Abuja grannies walking extra miles for water](https://www.dailytrust.com.ng/abuja-grannies-walking-extra-miles-for-water.html)
+
+[Green Gold: A Global Demand for Avocados Leaves People Without Water in Chile
+](https://www.kcet.org/shows/earth-focus/green-gold-a-global-demand-for-avocados-leaves-people-without-water-in-chile)
+
+[Green Gold: A Global Demand for Avocados Leaves People Without Water in Chile
+](https://www.cnn.com/2019/06/22/opinions/dear-chennai-water-advice-letter-joseph/index.html)
 
