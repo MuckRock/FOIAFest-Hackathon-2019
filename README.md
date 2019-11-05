@@ -36,6 +36,5 @@ LOCAL DATA:
 [Green Gold: A Global Demand for Avocados Leaves People Without Water in Chile
 ](https://www.kcet.org/shows/earth-focus/green-gold-a-global-demand-for-avocados-leaves-people-without-water-in-chile)
 
-[Green Gold: A Global Demand for Avocados Leaves People Without Water in Chile
-](https://www.cnn.com/2019/06/22/opinions/dear-chennai-water-advice-letter-joseph/index.html)
+[How to survive Chennai's water crisis](https://www.cnn.com/2019/06/22/opinions/dear-chennai-water-advice-letter-joseph/index.html)
 
