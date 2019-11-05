@@ -14,6 +14,10 @@ Over the course of the day, you'll get to work with a group to help pull out tre
 
 Two prizes — one for an internationally-focused project and one for a U.S.-centric project — will be awarded.
 
+## Etherpad
+
+We've set up a collaborative notetaking area on Etherpad to share team notes, updates, etc. [Find it here](https://etherpad.wikimedia.org/p/FOIAFest_Hackathon_2019)
+
 ## Data Sets
 
 GLOBAL DATA:
